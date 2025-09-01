@@ -21,3 +21,6 @@
 
 ---
 ✅ This warmup sprint helped me understand 366Pi’s ecosystem, explore its products hands-on, and get comfortable with internal tools and workflows.  
+
+
+now i am doing a commit
